@@ -1,0 +1,8 @@
+.judul{font-weight:bold; margin:0; font-family:"Comic Sans MS";}
+.list-group-item{text-align:left; background:transparent;}
+.list-group-item img{height:80px;}
+.image-holder{width: 150px; margin:auto;}
+.image-holder img{width:100%; height:150px;}
+.rumus,.video { width: 94%; min-width: 300px; max-width: 500px; margin:auto;}
+.rumus img, .video iframe{width: 100%; }
+div {margin:10px auto;}
